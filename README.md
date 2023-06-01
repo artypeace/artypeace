@@ -1,4 +1,5 @@
 # Hey, I'm Arty 🪩
+iOS developer
 
 ## My Apps
 Download them for free 🚀
