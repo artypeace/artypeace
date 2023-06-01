@@ -1,7 +1,7 @@
-# Hey, I'm Arty
+# Hey, I'm Arty 🪩
 
 ## My Apps
-Download them for free
+Download them for free 🚀
 | <img src="/images/ThaiDrive.png" width="100"/> | <img src="/images/ThaiDriveThai.png" width="100"/> |
 | - | - |
 | [Thai Drive](https://apps.apple.com/us/app/thai-driving-license-tests/id6446759635) | [Version in Thai](https://apps.apple.com/th/app/สอบใบข-บข-2566-dlt-ไทย-ไดรฟ/id6449095611) | 
