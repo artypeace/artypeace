@@ -13,13 +13,13 @@ Indie iOS developer. I design and build my own apps for iPhone, iPad, Apple Watc
       <p><a href="https://apps.apple.com/app/id6761124514"><b>App Store</b></a> · <a href="https://bibleanswer.app">bibleanswer.app</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://apps.apple.com/app/id6446759635"><img src="images/thai-drive.png" width="96" alt="Thai Drive app icon"></a>
+      <a href="https://apps.apple.com/app/id6446759635"><img src="images/thai-drive-3.png" width="96" alt="Thai Drive app icon"></a>
       <h3>Thai Drive</h3>
       <p>Prepare for the Thailand driving licence exam: 700+ practice questions, exam simulation, Thai road signs and tips for cars and motorbikes.</p>
       <p><a href="https://apps.apple.com/app/id6446759635"><b>App Store</b></a> · <a href="https://artypeace.github.io/ThaiDrive/support">Support</a></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://apps.apple.com/th/app/id6449095611"><img src="images/thai-drive-thai.png" width="96" alt="ไทยไดรฟ์ app icon"></a>
+      <a href="https://apps.apple.com/th/app/id6449095611"><img src="images/thai-drive-thai-3.png" width="96" alt="ไทยไดรฟ์ app icon"></a>
       <h3>ไทยไดรฟ์</h3>
       <p>Thai Drive in Thai: ข้อสอบฝึกหัดมากกว่า 700 ข้อ การจำลองข้อสอบเสมือนจริง และคำอธิบายป้ายจราจรไทย</p>
       <p><a href="https://apps.apple.com/th/app/id6449095611"><b>App Store</b></a> · <a href="https://artypeace.github.io/ThaiDrive/th/support">ช่วยเหลือ</a></p>
