@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.svg">
-  <img src="images/banner-light.svg" alt="Arty, indie iOS developer" width="100%">
-</picture>
+# Hi, I'm Arty
 
-Hi, I'm Arty. I design and build my own apps for iPhone, iPad, Apple Watch and Mac in SwiftUI.
+Indie iOS developer. I design and build my own apps for iPhone, iPad, Apple Watch and Mac in SwiftUI.
 
 ## My apps
 
