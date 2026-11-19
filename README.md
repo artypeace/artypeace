@@ -1,25 +1,37 @@
-# Hey, I'm Arty 🪩
-Indie iOS developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/banner-dark.svg">
+  <img src="images/banner-light.svg" alt="Arty, indie iOS developer" width="100%">
+</picture>
 
-## My Apps
-Download them for free
-| <img src="/images/ThaiDrive.png" width="100"/> | <img src="/images/ThaiDriveThai.png" width="100"/> |
-| - | - |
-| [Thai Drive](https://apps.apple.com/us/app/thai-driving-license-tests/id6446759635) | [Version in Thai](https://apps.apple.com/th/app/สอบใบข-บข-2566-dlt-ไทย-ไดรฟ/id6449095611) | 
+Hi, I'm Arty. I design and build my own apps for iPhone, iPad, Apple Watch and Mac in SwiftUI.
 
+## My apps
 
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://apps.apple.com/app/id6761124514"><img src="images/bible-answer.png" width="96" alt="Bible Answer app icon"></a>
+      <h3>Bible Answer</h3>
+      <p>Find verses for what you're going through: a verse for your situation, what it means for you, and a short prayer. Quoted word for word in six languages.</p>
+      <p><a href="https://apps.apple.com/app/id6761124514"><b>App Store</b></a> · <a href="https://bibleanswer.app">bibleanswer.app</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://apps.apple.com/app/id6446759635"><img src="images/thai-drive.png" width="96" alt="Thai Drive app icon"></a>
+      <h3>Thai Drive</h3>
+      <p>Prepare for the Thailand driving licence exam: 700+ practice questions, exam simulation, Thai road signs and tips for cars and motorbikes.</p>
+      <p><a href="https://apps.apple.com/app/id6446759635"><b>App Store</b></a> · <a href="https://artypeace.github.io/ThaiDrive/support">Support</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://apps.apple.com/th/app/id6449095611"><img src="images/thai-drive-thai.png" width="96" alt="ไทยไดรฟ์ app icon"></a>
+      <h3>ไทยไดรฟ์</h3>
+      <p>Thai Drive in Thai: ข้อสอบฝึกหัดมากกว่า 700 ข้อ การจำลองข้อสอบเสมือนจริง และคำอธิบายป้ายจราจรไทย</p>
+      <p><a href="https://apps.apple.com/th/app/id6449095611"><b>App Store</b></a> · <a href="https://artypeace.github.io/ThaiDrive/th/support">ช่วยเหลือ</a></p>
+    </td>
+  </tr>
+</table>
 
-<!--
-**artypeace/artypeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thai Drive is rated 4.7 on the App Store and has helped 100,000+ drivers prepare for the DLT exam.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SwiftUI · SwiftData · StoreKit 2 · WidgetKit and Live Activities · watchOS · Supabase Edge Functions
